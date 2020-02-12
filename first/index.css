@@ -3,29 +3,23 @@ header {
     height: 100px;
 }
 
-.left {
-    background: #f4f4f4;
-    height: 600px;
-    width: 15%;
-    float: left;
+body {
+    background-color: rgb(213, 213, 213);
 }
 
-
-
-.right {
-    height: 600px;
-    width: 15%;
-    background: #f4f4f4;
-    float: right;
-    
+div {
+    background-color: white;
+    height: 500px;
+    width: 75%;
+    margin: auto;
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(41, 41, 41);
     height: 100px;
-    width: 70%;
-    position: absolute;
-    bottom: 0;
-    align-items: ;
+    width: 75%;
+    margin: auto;
+    
+    
 }
 
