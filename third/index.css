@@ -1,0 +1,49 @@
+header {
+    background-color: rgb(236, 235, 235);
+    height: 100px;
+    width: auto;
+}
+
+.logo {
+    background: rgb(131, 146, 253);
+    height: 80%;
+    width: 80px;
+    float: left;
+    margin: 10px;
+}
+
+.white {
+    width: 100%;
+    height: 250px;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 90px;
+    color: rgb(63, 62, 62);
+}
+
+.blue {
+    background-color: rgb(131, 146, 253);
+    width: 100%;
+    height: 100px;
+}
+
+.teal {
+    background-color: rgb(57, 202, 202);
+    width: 100%;
+    height: 100px;
+}
+
+.lightGreen {
+    background-color: rgb(191, 238, 120);
+    width: 100%;
+    height: 100px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 100%;
+    height: 100px;
+}

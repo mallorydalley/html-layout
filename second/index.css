@@ -1,0 +1,65 @@
+.solid_box {
+    width: cover;
+    height: 200px;
+    border: solid;
+    margin: 2%;
+}
+
+.purple {
+    background: purple;
+    width: 40px;
+    height: 100px;
+    margin: 70px 20px;
+    float: left;
+}
+
+.green {
+    background: green;
+    width: 300px;
+    height: 90%;
+    margin: 10px;
+    float: left;
+}
+
+.skyblue {
+    background: skyblue;
+    border-radius: 50%;
+    width: 175px;
+    height: 90%;
+    margin: 5px 20px;
+    display: inline-flex;
+}
+
+.dotted_box {
+    width: cover;
+    height: 200px;
+    border: dotted;
+    margin-top: 25px;
+    margin: 2%;
+}
+
+.tan_box {
+    background: rgb(240, 213, 178);
+    height: 150px;
+    margin: 20px;
+    box-shadow: 10px 10px rgb(90, 89, 89);
+}
+
+.friends_box {
+    margin: 0 auto;
+    padding: 10px;
+    width: 50%;
+    height: 200px;
+    border: solid rgb(228, 226, 228);
+    box-shadow: 5px 5px rgb(160, 160, 160);
+    border: solid, gray;
+}
+
+.friends_text {
+    text-align: center;
+    padding:40px;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkblue;
+    letter-spacing: 5px;
+}
